@@ -9,9 +9,9 @@ ext {
   slf4j = "1.7.7"
   mockito = "1.10.13"
   servlet = "2.5"
-  guava = "15.0"
+  guava = "18.0"
   classmate = "1.1.0"
-  jackson = '2.4.4'
+  jackson = '2.6.2'
   libs = [
 
           test          : [
